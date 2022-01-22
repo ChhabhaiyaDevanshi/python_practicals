@@ -1,3 +1,6 @@
+# 20CE011-Chhabhaiya Devanshi
+# https://github.com/ChhabhaiyaDevanshi/python_practicals/blob/main/20CE011_prac5.py
+
 # You are given a string and your task is to swap cases. In other words, convert all lowercase letters to uppercase letters and vice versa.
 # Sample Input: HackerRank.com presents "Pythonist 2".
 # Sample Output: hACKERrANK.COM PRESENTS "pYTHONIST 2".
