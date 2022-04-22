@@ -1,3 +1,6 @@
+# 20CE011-CHHABHAIYA DEVANSHI
+# https://github.com/ChhabhaiyaDevanshi/python_practicals/blob/main/20CE011_prac8.py
+
 class Stack:
 
     def _init_(self):
